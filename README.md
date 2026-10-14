@@ -2,30 +2,28 @@
 
 ## Introduction
 
-This repository documents my journey learning Deep Learning through practical projects and experiments.
-
-I'm sharing what I build and what I learn along the way.
+This repository is where I'll be documenting my Deep Learning journey through projects and experiments.
 
 ## Purpose
 
-The goal is to understand how deep learning models work, not just how to use them.
+I want to understand how deep learning models actually work, not just write the code and get results.
 
-I'll be building projects as I learn, exploring different concepts, and documenting my progress along the way.
+I'll be building projects as I learn and documenting my understanding along the way.
 
 ## Projects
 
 | Project | Description |
-|---------|-------------|
-| [ANN Handwritten Digits Classification](./ann-handwritten-digits-classification/) | Building an Artificial Neural Network to classify handwritten digits from 0 to 9 using the MNIST dataset. |
+|---|---|
+| [ANN Handwritten Digits Classification](./ann-handwritten-digits-classification/) | Using an ANN to classify handwritten digits from 0 to 9 with the MNIST dataset. |
 
 More projects will be added as I progress.
 
 ## Learning Progress
 
-Currently exploring Artificial Neural Networks (ANNs) and building a deeper understanding of how neural networks learn.
+I'm currently deepening my understanding of Artificial Neural Networks (ANNs) and how they learn.
 
-I'll update this section as I progress.
+More to come as I learn.
 
 ---
 
-Learning by building, one step at a time.
+Learning one step at a time. 🚀
